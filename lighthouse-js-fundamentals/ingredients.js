@@ -19,4 +19,4 @@ console.log("3. As a for loop, backwards: \n");
 for (i = ingredients.length - 1; i >= 0; i--) {
   console.log(ingredients[i]);
 }
-console.log("\n");
+console.log("\n");s
